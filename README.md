@@ -15,7 +15,7 @@ Installation:
 git clone https://github.com/annacarbery/fragment-ranking.git
 cd fragment-ranking
 ```
-2. create new conda environment and install pymol and rdkit
+2. create new conda environment and install pymol and rdkit (versions used in original analysis: pymol 2.4.1 and rdkit 2021.03.5)
 ```bash
 conda create -n fragment-ranking -y
 conda activate fragment-ranking
